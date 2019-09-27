@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import styled, { css } from 'styled-components';
 import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
 
-import './app.css';
+import './App.css';
 
 import AllUsers from './AllUsers';
 import UserDashboard from './UserDashboard';
